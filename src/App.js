@@ -5,12 +5,6 @@ import 'firebase/compat/firestore';
 import Button from './components/Buttons';
 import Channel from './components/Channel';
 firebase.initializeApp({
-    apiKey: "AIzaSyDxANciMEroiDiSRcPNFtlsy3EkHxtzAOo",
-    authDomain: "chat-startup.firebaseapp.com",
-    projectId: "chat-startup",
-    storageBucket: "chat-startup.appspot.com",
-    messagingSenderId: "729700290382",
-    appId: "1:729700290382:web:b12199058fb242749f181f"
 });
 
 
